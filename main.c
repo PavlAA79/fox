@@ -5,5 +5,5 @@ int main(int argc, char **argv)
  char first[255], last[255]; //imposter
  askname(first, last)
 printf("Hello, %s %s!\n", first, last);
- return 0;
+ return 0;//1212121212121212121212121
 }
